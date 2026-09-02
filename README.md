@@ -24,3 +24,5 @@ On mobile all sections become one column.
 ## Made with
 
 Simple HTML, CSS and JavaScript. The layout uses Flexbox and CSS Grid.
+
+Note: the design changes for mobile screens using a CSS media query.
