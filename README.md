@@ -19,6 +19,8 @@ This product is not real. It was made only for learning.
 
 Open the index.html file in a browser. Nothing else is needed.
 
+On mobile all sections become one column.
+
 ## Made with
 
 Simple HTML, CSS and JavaScript. The layout uses Flexbox and CSS Grid.
