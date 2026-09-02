@@ -13,6 +13,7 @@ This product is not real. It was made only for learning.
 
 - index.html - the page content
 - style.css - the design
+- script.js - puts the current year in the footer
 
 ## How to run
 
@@ -20,4 +21,4 @@ Open the index.html file in a browser. Nothing else is needed.
 
 ## Made with
 
-Simple HTML and CSS. The layout uses Flexbox and CSS Grid.
+Simple HTML, CSS and JavaScript. The layout uses Flexbox and CSS Grid.
